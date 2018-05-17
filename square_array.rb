@@ -4,3 +4,5 @@ def square_array(array)
     number = number ** 2
   end
 end
+
+square_array([4, 5, 6])
